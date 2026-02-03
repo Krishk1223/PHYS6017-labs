@@ -1,0 +1,25 @@
+# Julia compiled files
+*.jl.cov
+*.jl.*.cov
+*.ji
+
+# Julia package environments
+Manifest.toml
+*.toml.bak
+
+# Jupyter and Pluto notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Pluto notebook backup files
+*.jl~ 
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# Pluto temporary files
+*.plutopkg.toml
+*.plutopkg.lock
